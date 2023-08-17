@@ -10,9 +10,3 @@
 	--desktop-bg: #181926; /* or darkest color */
 	--font-family: "JetBrains Mono", monospace;
 }
-
-/* Only if --window-bg is a light color */
-.winbox .wb-control, .window-logo { filter: invert(1); }
-
-/* Only if --boot-bg is a light color */
-.logo { filter: invert(1); }
