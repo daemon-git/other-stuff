@@ -3,10 +3,10 @@
 :root {
 	--primary: #000000;
 	--boot-bg: #000000;
-	--bar-bg: #1e2030;
-	--window-bg: #24273a;
-	--surface-bg: #363a4f;
-	--text-color: #cad3f5;
+	--bar-bg: #000000;
+	--window-bg: #000000;
+	--surface-bg: #000000;
+	--text-color: #ffffff;
 	--desktop-bg: #000000;
 	--font-family: "JetBrains Mono", monospace;
 }
